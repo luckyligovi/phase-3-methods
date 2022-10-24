@@ -4,7 +4,6 @@ def greet_programmer
     puts "Hello, programmer!"
 end
 
-greetProgrammer
 
 
 def greet name 
